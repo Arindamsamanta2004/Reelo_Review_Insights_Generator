@@ -104,8 +104,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 Thanks to the Hugging Face team for their incredible open-source AI models.
 
----
-```
 
-![Screenshot 2025-04-24 141159](https://github.com/user-attachments/assets/497a0064-2c4b-4963-a719-787149786704)
-![Screenshot 2025-04-24 141226](https://github.com/user-attachments/assets/dca48273-c6e5-4132-9252-3fb8523947c8)
+![Screenshot 2025-04-24 141159](https://github.com/user-attachments/assets/621d21ba-744e-4b48-8dfb-903593cd529f)
+![Screenshot 2025-04-24 141226](https://github.com/user-attachments/assets/9e1e448b-505b-4622-a110-568e617cf4ee)
+
+
